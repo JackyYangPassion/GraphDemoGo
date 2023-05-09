@@ -1,3 +1,6 @@
+0. 依赖管理
+   通过 Go modules 管理依赖
+   go verison 1.19.4
 1. 验证 dominikbraun/graph API 基本功能
 2. 记录
    图基本原理与算法

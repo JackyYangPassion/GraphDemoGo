@@ -1,2 +1,4 @@
 github.com/dominikbraun/graph v0.16.1 h1:ZtzDQFo32vxwSUsK4ioX8bfE45xoh8hQfavFMlKpaC8=
 github.com/dominikbraun/graph v0.16.1/go.mod h1:yOjYyogZLY1LSG9E33JWZJiq5k83Qy2C6POAuiViluc=
+github.com/dominikbraun/graph v0.20.0 h1:a/ReB8JqcIhpo9yx31V1W+OwRnak4lo7QFsj17kpe6c=
+github.com/dominikbraun/graph v0.20.0/go.mod h1:yOjYyogZLY1LSG9E33JWZJiq5k83Qy2C6POAuiViluc=
