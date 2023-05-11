@@ -67,4 +67,6 @@ func main() {
 	//支持自定义后端：KV等
 	//g := graph.NewWithStore(graph.IntHash, myStore)
 
+	//TODO: test demo
+
 }
