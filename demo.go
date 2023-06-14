@@ -20,6 +20,7 @@ func main() {
 	*1. 增加点
 	*2. 增加边
 	*3. 图基本操作
+	*4. 执行简单算法
 	 */
 	g := graph.New(graph.IntHash, graph.Directed(), graph.PreventCycles())
 
